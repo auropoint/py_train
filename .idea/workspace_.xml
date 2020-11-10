@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6159c93-2400-4b65-9a4c-19bd4e97c7eb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jshZKaCDrcZ4wXF0PmPNPBC3lM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/env/Scripts/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in tag.py">
+    <configuration name="Unittests in tag2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tag2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tag.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tag.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in .pytest_cache" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.pytest_cache" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/.pytest_cache&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in py_train" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in py_train" />
+      <item itemvalue="Python tests.Unittests in tag.py" />
+      <item itemvalue="Python tests.Unittests in tag2.py" />
+      <item itemvalue="Python tests.pytest in .pytest_cache" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in tag.py" />
+        <item itemvalue="Python tests.pytest in .pytest_cache" />
+        <item itemvalue="Python tests.Unittests in tag2.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6159c93-2400-4b65-9a4c-19bd4e97c7eb" name="Default Changelist" comment="" />
+      <created>1604598760384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604598760384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="248" width="1161" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604607100181">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="380" y="248" width="1161" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604607100181" />
+    <state x="441" y="259" key="FileChooserDialogImpl" timestamp="1604607145871">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="441" y="259" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1604607145871" />
+    <state width="677" height="240" key="GridCell.Tab.0.bottom" timestamp="1604607540201">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="677" height="240" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1604607540201" />
+    <state width="677" height="240" key="GridCell.Tab.0.center" timestamp="1604607540201">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="677" height="240" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1604607540201" />
+    <state width="677" height="240" key="GridCell.Tab.0.left" timestamp="1604607540201">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="677" height="240" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1604607540201" />
+    <state width="677" height="240" key="GridCell.Tab.0.right" timestamp="1604607540201">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="677" height="240" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1604607540201" />
+    <state width="1354" height="299" key="GridCell.Tab.1.bottom" timestamp="1604607190355">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1354" height="299" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1604607190355" />
+    <state width="1354" height="299" key="GridCell.Tab.1.center" timestamp="1604607190355">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1354" height="299" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1604607190355" />
+    <state width="1354" height="299" key="GridCell.Tab.1.left" timestamp="1604607190355">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1354" height="299" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1604607190355" />
+    <state width="1354" height="299" key="GridCell.Tab.1.right" timestamp="1604607190355">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1354" height="299" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1604607190355" />
+    <state x="245" y="79" key="SettingsEditor" timestamp="1604607159041">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="245" y="79" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1604607159041" />
+    <state x="525" y="0" key="search.everywhere.popup" timestamp="1604600019603">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="525" y="0" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1604600019603" />
+  </component>
+</project>

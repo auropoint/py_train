@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80db2738-7908-442e-af08-63cc672c99fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in tag16.py">
+    <configuration name="pytest in tag14.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tag14.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tag15.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tag15.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tag16.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tag16.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tag.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tag.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in tag.py" />
+      <item itemvalue="Python tests.pytest in tag14.py" />
+      <item itemvalue="Python tests.pytest in tag15.py" />
+      <item itemvalue="Python tests.pytest in tag16.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in tag16.py" />
+        <item itemvalue="Python tests.pytest in tag15.py" />
+        <item itemvalue="Python tests.pytest in tag.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="166" width="1102" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604659153882">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="476" y="166" width="1102" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604659153882" />
+    <state width="955" height="174" key="GridCell.Tab.0.bottom" timestamp="1605024048475">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="955" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1605024048475" />
+    <state width="955" height="174" key="GridCell.Tab.0.center" timestamp="1605024048475">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="955" height="174" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1605024048475" />
+    <state width="955" height="174" key="GridCell.Tab.0.left" timestamp="1605024048475">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="955" height="174" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1605024048475" />
+    <state width="955" height="174" key="GridCell.Tab.0.right" timestamp="1605024048475">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="955" height="174" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1605024048475" />
+    <state x="263" y="61" key="SettingsEditor" timestamp="1604658396813">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="263" y="61" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1604658396813" />
+    <state x="347" y="219" width="644" height="512" key="refactoring.ChangeSignatureDialog" timestamp="1605023583202">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="347" y="219" width="644" height="512" key="refactoring.ChangeSignatureDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1605023583202" />
+  </component>
+</project>
