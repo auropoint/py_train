@@ -21,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest in tag16.py">
+  <component name="RunManager" selected="Python tests.pytest in tag18.py">
     <configuration name="pytest in tag14.py" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="py_train" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,6 +70,38 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in tag17.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tag17.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in tag18.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py_train" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tag18.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="pytest in tag.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="py_train" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,9 +123,13 @@
       <item itemvalue="Python tests.pytest in tag14.py" />
       <item itemvalue="Python tests.pytest in tag15.py" />
       <item itemvalue="Python tests.pytest in tag16.py" />
+      <item itemvalue="Python tests.pytest in tag17.py" />
+      <item itemvalue="Python tests.pytest in tag18.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in tag18.py" />
+        <item itemvalue="Python tests.pytest in tag17.py" />
         <item itemvalue="Python tests.pytest in tag16.py" />
         <item itemvalue="Python tests.pytest in tag15.py" />
         <item itemvalue="Python tests.pytest in tag.py" />
@@ -108,22 +144,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="476" y="166" width="1102" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1604659153882" />
-    <state width="955" height="174" key="GridCell.Tab.0.bottom" timestamp="1605024048475">
+    <state width="1240" height="193" key="GridCell.Tab.0.bottom" timestamp="1605434443354">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="955" height="174" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1605024048475" />
-    <state width="955" height="174" key="GridCell.Tab.0.center" timestamp="1605024048475">
+    <state width="1240" height="193" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1605434443354" />
+    <state width="1240" height="193" key="GridCell.Tab.0.center" timestamp="1605434443354">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="955" height="174" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1605024048475" />
-    <state width="955" height="174" key="GridCell.Tab.0.left" timestamp="1605024048475">
+    <state width="1240" height="193" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1605434443354" />
+    <state width="1240" height="193" key="GridCell.Tab.0.left" timestamp="1605434443354">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="955" height="174" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1605024048475" />
-    <state width="955" height="174" key="GridCell.Tab.0.right" timestamp="1605024048475">
+    <state width="1240" height="193" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1605434443354" />
+    <state width="1240" height="193" key="GridCell.Tab.0.right" timestamp="1605434443354">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="955" height="174" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1605024048475" />
+    <state width="1240" height="193" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1605434443354" />
     <state x="263" y="61" key="SettingsEditor" timestamp="1604658396813">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
