@@ -12,13 +12,13 @@ def app(request):
 
 
 def test_tab(app):
-    app.login(username="admin", password="secret")
+    app.session.login(username="admin", password="secret")
     app.create_group(Group(name="g", header="gh", footer="gf"))
-    app.logout()
+    app.session.logout()
 
 
 def test_tab_empty(app):
-    app.login(username="admin", password="secret")
+    app.session.login(username="admin", password="secret")
     app.create_group(Group(name="", header="", footer=""))
-    app.logout()
+    app.session.logout()
 

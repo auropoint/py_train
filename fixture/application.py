@@ -1,5 +1,5 @@
 from selenium import webdriver
-
+from fixture.session import SessionHelper
 
 class Application:
 
@@ -9,10 +9,7 @@ class Application:
         self.base_url = "https://www.google.com/"
         self.verificationErrors = []
         self.accept_next_alert = True
-
-    def logout(self):
-        driver = self.driver
-        driver.find_element_by_link_text(u"Выйти").click()
+        self.session = SessionHelper(self)
 
     def return_to_groups_page(self):
         driver = self.driver
@@ -40,16 +37,6 @@ class Application:
     def open_groups_page(self):
         driver = self.driver
         driver.find_element_by_link_text(u"Группы").click()
-
-    def login(self, username, password):
-        driver = self.driver
-        self.open_home_page()
-        driver.find_element_by_name("user").click()
-        driver.find_element_by_name("user").clear()
-        driver.find_element_by_name("user").send_keys(username)
-        driver.find_element_by_name("pass").clear()
-        driver.find_element_by_name("pass").send_keys(password)
-        driver.find_element_by_xpath(u"//input[@value='Войти']").click()
 
     def open_home_page(self):
         driver = self.driver
