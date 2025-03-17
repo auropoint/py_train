@@ -1,31 +1,34 @@
+from selenium.webdriver.common.by import By
+
+
 class GroupHelper:
 
     def __init__(self, app):
         self.app = app
 
-    def return_to_groups_page(self):
-        driver = self.app.driver
-        driver.find_element_by_link_text("group page").click()
+    def open_groups_page(self):
+        wd = self.app.wd
+        wd.find_element(By.LINK_TEXT, "groups").click()
 
     def create(self, group):
-        driver = self.app.driver
+        wd = self.app.wd
         self.open_groups_page()
         # init group creation
-        driver.find_element_by_name("new").click()
+        wd.find_element(By.NAME, "new").click()
         # fill group form
-        driver.find_element_by_name("group_name").click()
-        driver.find_element_by_name("group_name").clear()
-        driver.find_element_by_name("group_name").send_keys(group.name)
-        driver.find_element_by_name("group_header").click()
-        driver.find_element_by_name("group_header").clear()
-        driver.find_element_by_name("group_header").send_keys(group.header)
-        driver.find_element_by_name("group_footer").click()
-        driver.find_element_by_name("group_footer").clear()
-        driver.find_element_by_name("group_footer").send_keys(group.footer)
+        wd.find_element(By.NAME, "group_name").click()
+        wd.find_element(By.NAME, "group_name").clear()
+        wd.find_element(By.NAME, "group_name").send_keys(group.name)
+        wd.find_element(By.NAME, "group_header").click()
+        wd.find_element(By.NAME, "group_header").clear()
+        wd.find_element(By.NAME, "group_header").send_keys(group.header)
+        wd.find_element(By.NAME, "group_footer").click()
+        wd.find_element(By.NAME, "group_footer").clear()
+        wd.find_element(By.NAME, "group_footer").send_keys(group.footer)
         # submit group creation
-        driver.find_element_by_name("submit").click()
+        wd.find_element(By.NAME, "submit").click()
         self.return_to_groups_page()
 
-    def open_groups_page(self):
-        driver = self.app.driver
-        driver.find_element_by_link_text(u"Группы").click()
+    def return_to_groups_page(self):
+        wd = self.app.wd
+        wd.find_element(By.LINK_TEXT, "group page").click()
