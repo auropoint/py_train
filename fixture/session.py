@@ -17,6 +17,27 @@ class SessionHelper:
         wd.find_element(By.NAME, "pass").send_keys(password)
         wd.find_element(By.CSS_SELECTOR, "input[type=\"submit\"]").click()
 
+    def ensure_login(self, username, password):
+        if self.is_logged_in():
+            if not self.is_logged_in_as(username):
+                self.logout()
+                self.login(username, password)
+        else:
+            self.login(username, password)
+
+    def is_logged_in(self):
+        wd = self.app.wd
+        return len(wd.find_elements(By.LINK_TEXT, "Logout")) > 0
+
+    def is_logged_in_as(self, username):
+        wd = self.app.wd
+        return wd.find_element(By.XPATH,
+                               "//div[1]/div[1]/form[1]/b[1]").text == "("+username+")"
+
     def logout(self):
         wd = self.app.wd
         wd.find_element(By.LINK_TEXT, "Logout").click()
+
+    def ensure_logout(self):
+        if self.is_logged_in():
+            self.logout()
