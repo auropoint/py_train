@@ -32,7 +32,7 @@ class SessionHelper:
     def is_logged_in_as(self, username):
         wd = self.app.wd
         return wd.find_element(By.XPATH,
-                               "//div[1]/div[1]/form[1]/b[1]").text == "("+username+")"
+                               "//div[1]/div[1]/form[1]/b[1]").text == "(" + username + ")"
 
     def logout(self):
         wd = self.app.wd
